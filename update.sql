@@ -1,0 +1,1 @@
+update table1 set balance=20000 where accnum=896895;
